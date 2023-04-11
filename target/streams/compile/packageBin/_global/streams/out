@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\marouan\Documents\weather\target\scala-2.13\weatherapp_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CityWeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\CityWeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CityWeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\CityWeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherApiError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherApiError$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherApiError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherApiError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\marouan\Documents\weather\target\scala-2.13\classes\WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
